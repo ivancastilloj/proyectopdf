@@ -80,8 +80,7 @@
               </ul>
           </div>
           
-          <a class="navi-item"
-               href="${pageContext.request.contextPath}/shoppingCartConfirmation.pdf">Ver pdf</a>
+         
       </c:forEach>
  
   </div>

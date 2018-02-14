@@ -73,9 +73,7 @@
                Buy</a>
        </form:form>
  
- <a class="navi-item"
-               href="${pageContext.request.contextPath}/pdf">Continue
-               Buy</a>
+
    </c:if>
  
  

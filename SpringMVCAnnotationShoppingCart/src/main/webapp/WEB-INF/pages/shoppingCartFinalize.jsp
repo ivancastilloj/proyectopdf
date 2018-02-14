@@ -22,6 +22,9 @@
        Your order number is: ${lastOrderedCart.orderNum}
    </div>
  
+ 
+  <a class="navi-item"
+               href="${pageContext.request.contextPath}/shoppingCartConfirmation.pdf">Ver pdf</a>
    <jsp:include page="_footer.jsp" />
  
 </body>
